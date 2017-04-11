@@ -13,6 +13,7 @@ public class Main2Activity extends AppCompatActivity
 {
     //xampp settings for localhost
     //controlpanel firewall inbound rules new rule allow xampp port
+    //Default port is 80
     final static String urlAddress="http://192.168.0.103/php/spacecraft_select_images.php";
     protected void onCreate(Bundle savedInstanceState)
     {
